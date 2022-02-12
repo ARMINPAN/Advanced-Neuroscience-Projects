@@ -1,2 +1,2 @@
-# Advanced-Neuroscience-Project
+# Advanced-Neuroscience-Projects
 Advanced Neuroscience Course Projects
